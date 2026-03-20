@@ -8,7 +8,7 @@ A professional portfolio showcasing geospatial analysis projects built using **Q
 
 ## 🚀 Live Portfolio Website
 
-👉 https://yourusername.github.io/qgis-geospatial-portfolio/
+👉 https://omisoclinton96.github.io/qgis-geospatial-portfolio/
 
 *(Replace `yourusername` with your actual GitHub username after publishing)*
 
@@ -93,7 +93,7 @@ Mapped operational workflows and sample movement across facilities to improve co
 
 After deployment, your site will be available at:
 
-👉 https://yourusername.github.io/qgis-geospatial-portfolio/
+👉 https://omisoclinton96.github.io/qgis-geospatial-portfolio/
 
 ---
 
@@ -109,8 +109,8 @@ Before sharing your portfolio, update:
 
 ## 📬 Contact
 
-- **Email:** your-email@example.com  
-- **GitHub:** https://github.com/yourusername  
+- **Email:** omisoclinton96@gmail.com  
+- **GitHub:** https://github.com/omisoclinton96 
 
 ---
 
@@ -149,8 +149,8 @@ Before sharing your portfolio, update:
 
 ## 📬 Contact
 
-- **Email:** your-email@example.com  
-- **GitHub:** https://github.com/yourusername  
+- **Email:**omisoclinton96@gmail.com  
+- **GitHub:** https://github.com/omisoclinton96  
 
 ---
 
